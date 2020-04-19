@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2020-04-06 17:54:50
- * @LastEditTime: 2020-04-11 22:48:34
+ * @LastEditTime: 2020-04-14 15:15:46
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: /backend-series/网络/HTTP.md
@@ -24,6 +24,6 @@
 
 
 #### 状态码
-
+- 3xx状态码：301 永久转移；302 临时转移
 - 4xx状态码：客户端错误。400 Bad Request；401 Unauthorized；403 Forbidden；404 Not Found；
 - 5xx状态码：服务端错误。500 internal error；501 Not Implemented; 502 Bad Gateway(从远程服务器收到无效响应); 503 service unavailable; 504 Gateway timeout
